@@ -3,7 +3,9 @@ Finance Machine Learning
 
 *"Because everyone else is autistic"*
 
-#### 
+
+
+#### Progress
 - [x] Create Github Project
 - [ ] Create the DataFetcher API ***(In Progress)***
     - [ ] TDAmeritrade Equitys
