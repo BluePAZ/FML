@@ -3,6 +3,17 @@ Finance Machine Learning
 
 *"Because everyone else is autistic"*
 
+#### 
+- [x] Create Github Project
+- [ ] Create the DataFetcher API ***(In Progress)***
+    - [ ] TDAmeritrade Equitys
+    - [ ] TDAmeritrade Options
+- [ ] Create DataProvier API
+- [ ] Create Initial ML Model
+- [ ] Create Testing Framework
+- [ ] Create Trading API
+
+
 
 ## DataFetcher
 This contains code to retrieve data from various types of backends.
